@@ -1,6 +1,0 @@
-from tspf import TriangleRegister, collapse
-t = TriangleRegister("T",3,4,60)
-print(t)
-t.set_phase(0.25)
-collapse(t)
-print(t)
