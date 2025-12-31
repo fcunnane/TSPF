@@ -1,2 +1,0 @@
-class CollapseError(Exception):
-    pass
